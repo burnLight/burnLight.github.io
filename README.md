@@ -1,2 +1,3 @@
-# burnLight.github.io
+# BurnLight
+
 BurnLight organization website
