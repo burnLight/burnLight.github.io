@@ -1,7 +1,6 @@
 html, body {
     height: 100%;
     width: 100%;
-    background-color: rgb(220, 163, 148);
     font-family: 'Raleway', sans-serif;
 }
 
@@ -22,7 +21,7 @@ img {
 
 h1 {
     font-weight: 300;
+    opacity: .3;
     text-align: center;
     margin-top: 0;
-    color: white;
 }
